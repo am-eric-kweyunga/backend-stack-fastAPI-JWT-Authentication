@@ -1,0 +1,7 @@
+.idea/
+venv/
+__pycache__/
+auth-venv/
+
+*.env
+*.env.local
